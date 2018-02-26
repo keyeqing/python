@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+*.ipynb
+*.txt
+data/
+aether/
+
+
+
